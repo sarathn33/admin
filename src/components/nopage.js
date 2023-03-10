@@ -1,5 +1,5 @@
 import { Button } from '@mui/material';
-import {React} from 'react';
+import React from 'react';
 import { useHistory } from 'react-router-dom';
 
 export function Nopage(){

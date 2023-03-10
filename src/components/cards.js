@@ -1,5 +1,5 @@
 import { Button, Card, CardActions, CardContent, CardMedia, Typography } from "@mui/material";
-import { React } from "react";
+import  React  from "react";
 
 
 export function Cards(){

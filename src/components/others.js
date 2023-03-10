@@ -1,6 +1,6 @@
 import { Card, CardContent, Typography } from '@mui/material';
 
-export {React} from 'react';
+import React from 'react';
 
 export function Others(){
     return(

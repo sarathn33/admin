@@ -1,6 +1,6 @@
 import { Button } from "@mui/material";
 import { Stack } from "@mui/system";
-export {React} from "react";
+import React from "react";
 
 export function Buttons(){
     return( <div className="content">
