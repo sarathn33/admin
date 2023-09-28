@@ -8,10 +8,10 @@ export function Nav(){
             <div className='top-bar'>
                <span>SB ADMIN 2.0</span>
             <input className='search' type="text" placeholder="Search.."/>
-            <a href="#" class="notification">
+            <Link to="#" class="notification">
   <span>Inbox</span>  
   <span class="badge">3</span> 
-</a>
+</Link>
             </div>
               <div className="side-bar">
         <Link to="/dashboard"> Dashboard</Link>
